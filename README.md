@@ -28,7 +28,7 @@ Coming Soon.
       <a href="https://www.linkedin.com/in/anna-kamilaki-19689a332/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KPISTOLAS"><img src="https://avatars.githubusercontent.com/u/122966880?v=4" width="100px;"/><br/><sub><b>Konstantinos Pistolas</b></sub></a><br/><br>
       <a href="https://www.linkedin.com/in/konstantinos-pistolas-aa7a12265/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
-      <td align="center" valign="top" width="14.28%"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEkCNxpv8eZTg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729271548777? e=1746057600&v=beta&t=NEjmiWWA9XHNOuAgHWd32XbOyokyfW2RPV9Sp8Cy8L4" width="100px;"/><br/><sub><b>Leonidas Vogiatzis</b></sub><br/><br>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/leonidas-vogiatzis-3a7bb1333/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEkCNxpv8eZTg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729271548808?e=1746057600&v=beta&t=HjnmZ0X9XDFJjw2kk98G1xqML1nJ1XJPLPweyqTwfaY" width="100px;"/><br/><sub><b>Leonidas Vogiatzis</b></sub></a><br/><br>
       <a href="https://www.linkedin.com/in/leonidas-vogiatzis-3a7bb1333/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
     </tr>  
   </tbody>
