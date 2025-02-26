@@ -18,5 +18,17 @@ Coming Soon.
 Coming Soon.
 
 ## Credits
-Coming Soon.
+**✨Our team:**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TsipiDev"><img src="https://avatars.githubusercontent.com/u/26091373" width="100px;"/><br/><sub><b>Dimitris Vatousis</b></sub></a><br/><br>
+      <a href="https://www.linkedin.com/in/dimitris-vatousis/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>  
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ankamim"><img src="https://avatars.githubusercontent.com/u/153131248?" width="100px;"/><br/><sub><b>Anna Kamilaki</b></sub></a><br/><br>
+      <a href="https://www.linkedin.com/in/anna-kamilaki-19689a332/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>      
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KPISTOLAS"><img src="https://avatars.githubusercontent.com/u/182362978" width="100px;"/><br/><sub><b>Konstantinos Pistolas</b></sub></a><br/><br>
+      <a href="https://www.linkedin.com/in/konstantinos-pistolas-aa7a12265/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
+    </tr>  
+  </tbody>
+</table>
 
