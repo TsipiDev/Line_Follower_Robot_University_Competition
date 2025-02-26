@@ -1,4 +1,4 @@
-# <Line Follower Robot University Competition>
+# Line Follower Robot University Competition
 
 ## Description
 
