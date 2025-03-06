@@ -6,10 +6,15 @@ This project was made as an entry to our university's 📟Embedded Systems📟 c
 Moreover this repository also serves as a guide📖 to how you can build our robot, from the components⚙️ you gonna need and the robot's code👨🏻‍💻 to building it and putting it all together. If you wanna build our model or create your own based on our robot then feel free just make sure you give us a mention in your project!! Our main focus📌 for this line follower was for it to be fast⚡️ and able to handle various "weather conditions"☁️ that could be present in the stages along with sharp turns and sudden stops, these factors heavily affected our design and coding decisions as well as which parts we picked.
 
 ## Table of Contents
-
+- [Stages](#stages)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Credits](#credits)
+
+## Stages
+
+Stage 1:
+![Alt text](https://private-user-images.githubusercontent.com/182362978/420120790-9a186a94-4e28-41d9-9273-0fbb18e29672.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzMDI2MTQsIm5iZiI6MTc0MTMwMjMxNCwicGF0aCI6Ii8xODIzNjI5NzgvNDIwMTIwNzkwLTlhMTg2YTk0LTRlMjgtNDFkOS05MjczLTBmYmIxOGUyOTY3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNlQyMzA1MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NmRhODc5ZjMxNTdiZTNlMGM1MmVlNTZjMmZjYWMyZDcyYTgwM2UwOTUzY2YwY2RmMWZkOTZlNmI4YWE4ZTQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._5z-KV9QCHLhA4_KUSN7-GdB5kxFJonh-ORiwluUJDk)
 
 ## Requirements
 Coming Soon.
