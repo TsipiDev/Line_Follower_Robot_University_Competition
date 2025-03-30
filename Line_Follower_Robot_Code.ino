@@ -1,8 +1,6 @@
 // Libraries
 #include <Arduino.h>
 
-//PREPI NA MPI END CONDITION LOGIKI!!!!!
-
 // Motor Driver Pins
 #define ENA  5   // PWM for left motor
 #define DIR1A  18  // Direction 1 for left motor
