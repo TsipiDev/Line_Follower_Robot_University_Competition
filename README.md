@@ -38,8 +38,8 @@ Hardware:
 - 4x AA Batteries 1.5V  
 
 Software:
-1. Arduino IDE (with extensions installed)
-2. Final_LineFollower.ino File 
+- Arduino IDE (with extensions installed)
+- Final_LineFollower.ino File 
 
 ## Installation
 Hardware:
