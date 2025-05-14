@@ -43,10 +43,10 @@ Software:
 
 ## Installation
 Hardware:
-  Step 1)
-  Secure all the components on the chasis. **Make sure that the sensors are at the correct height and distance apart ( See Robot Picture for reference)**
+**Step 1**
+Secure all the components on the chasis. **Make sure that the sensors are at the correct height and distance apart ( See Robot Picture for reference)**
 
-  Robot Picture:
+- Robot Picture:
 
 ## Credits
 **✨Our team:**
