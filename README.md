@@ -28,7 +28,7 @@ Stage 3:
 
 ## Requirements
 Hardware:
-1x Maker PI RP2040 Microcontroller
+1x Maker PI RP2040 Microcontroller                                                                                                                                                                                                                                      
 1x Battery Holder for 4 AA Battaries
 1x Metal Caster Ball
 1x 2 Wheel 1 Metal Caster Ball Chasis
