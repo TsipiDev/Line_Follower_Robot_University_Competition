@@ -9,7 +9,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - [Stages](#stages)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Code Explaination](#codeexplaination)
+- [Code_Explaination](#code_explaination)
 - [Credits](#credits)
 
 ## Stages
