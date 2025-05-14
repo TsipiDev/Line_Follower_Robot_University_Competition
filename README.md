@@ -9,7 +9,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - [Stages](#stages)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Code_Explaination](#code_explaination)
+- [Code Explaination](#code_explaination)
 - [Credits](#credits)
 
 ## Stages
@@ -85,7 +85,7 @@ Software:
   **Step 5:**
   Open the Final_LineFollower.ino file, connect the RP2040 to the computer with the Micro USB cable **(MAKE SURE THE BATTERY IS NOT CONNECTED TO THE BOARD)** and upload the code.  
 
-## Code_Explaination  
+## Code Explaination  
 Coming soon.
   
   
