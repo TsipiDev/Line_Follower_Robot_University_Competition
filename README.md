@@ -28,14 +28,14 @@ Stage 3:
 
 ## Requirements
 Hardware:
-1x Maker PI RP2040 Microcontroller                                                                                                                                                                                                                                      
-1x Battery Holder for 4 AA Battaries
-1x Metal Caster Ball
-1x 2 Wheel 1 Metal Caster Ball Chasis
-1x USB Micro A (that supports data transfer)
-2x DC N20 Motors
-3x TCRT5000 Analog/Digital Infared Sensors
-4x AA Battaries 1.5V 
+  1x Maker PI RP2040 Microcontroller
+  1x Battery Holder for 4 AA Battaries
+  1x Metal Caster Ball
+  1x 2 Wheel 1 Metal Caster Ball Chasis
+  1x USB Micro A (that supports data transfer)
+  2x DC N20 Motors
+  3x TCRT5000 Analog/Digital Infared Sensors
+  4x AA Battaries 1.5V 
 
 Software:
 1. Arduino IDE (with extensions installed)
