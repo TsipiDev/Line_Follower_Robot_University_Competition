@@ -9,6 +9,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - [Stages](#stages)
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Code Explaination](#codeexplaination)
 - [Credits](#credits)
 
 ## Stages
@@ -82,7 +83,10 @@ Software:
   Go to Tools > Board and select Raspberry Pi Pico (or another RP2040 board, depending on what's listed)  
 
   **Step 5:**
-  Open the Final_LineFollower.ino file, connect the RP2040 to the computer with the Micro USB cable **(MAKE SURE THE BATTERY IS NOT CONNECTED TO THE BOARD)** and upload the code.
+  Open the Final_LineFollower.ino file, connect the RP2040 to the computer with the Micro USB cable **(MAKE SURE THE BATTERY IS NOT CONNECTED TO THE BOARD)** and upload the code.  
+
+## Code Explaination  
+Coming soon.
   
   
 ## Credits
