@@ -63,9 +63,8 @@ Hardware:
   - Black Wire of Battery Pack in the - of the VIN
 
   **Step 3:**  
-  Once everything is connected turn the RP2040 ON using the switch and see if everything powers up (Mostly Sensors and Microcontroller).  
-
-  
+  Once everything is connected turn the RP2040 ON using the switch and see if everything powers up (Mostly Sensors and Microcontroller).<br>
+  <br>
 Software:  
 
   **Step 1:**  
