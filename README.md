@@ -48,6 +48,7 @@ Hardware:
   Secure all the components on the chasis.**Make sure that the sensors are at the correct height and distance apart ( See Robot Picture for reference)**  
 
   - Robot Picture:
+  ![Alt text](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/Robot.jpeg?raw=true)
 
 ## Credits
 **✨Our team:**
