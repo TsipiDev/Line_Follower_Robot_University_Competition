@@ -65,6 +65,7 @@ Hardware:
   **Step 3:**  
   Once everything is connected turn the RP2040 ON using the switch and see if everything powers up (Mostly Sensors and Microcontroller).  
 
+  
 Software:  
 
   **Step 1:**  
