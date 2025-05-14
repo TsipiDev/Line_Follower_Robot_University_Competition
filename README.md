@@ -85,7 +85,7 @@ Software:
   **Step 5:**
   Open the Final_LineFollower.ino file, connect the RP2040 to the computer with the Micro USB cable **(MAKE SURE THE BATTERY IS NOT CONNECTED TO THE BOARD)** and upload the code.  
 
-## Code Explaination  
+## Code_Explaination  
 Coming soon.
   
   
