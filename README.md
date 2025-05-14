@@ -27,10 +27,26 @@ Stage 3:
 
 
 ## Requirements
-Coming Soon.
+Hardware:
+1x Maker PI RP2040 Microcontroller
+1x Battery Holder for 4 AA Battaries
+1x Metal Caster Ball
+1x 2 Wheel 1 Metal Caster Ball Chasis
+1x USB Micro A (that supports data transfer)
+2x DC N20 Motors
+3x TCRT5000 Analog/Digital Infared Sensors
+4x AA Battaries 1.5V 
+
+Software:
+1. Arduino IDE (with extensions installed)
+2. Final_LineFollower.ino File 
 
 ## Installation
-Coming Soon.
+Hardware:
+  Step 1)
+  Secure all the components on the chasis. **Make sure that the sensors are at the correct height and distance apart ( See Robot Picture for reference)**
+
+  Robot Picture:
 
 ## Credits
 **✨Our team:**
