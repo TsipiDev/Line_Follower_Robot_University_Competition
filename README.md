@@ -36,7 +36,7 @@ Hardware:
 - 1x USB Micro A Cable (supports data transfer)  
 - 2x DC N20 Motors  
 - 3x TCRT5000 Analog/Digital Infrared Sensors  
-- 4x AA Batteries 1.5V  
+- 4x AAA Batteries 1.5V  
 
 Software:
 - Arduino IDE (with extensions installed)
