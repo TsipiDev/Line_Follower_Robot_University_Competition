@@ -19,9 +19,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - [👨‍👩‍👧‍👦 Team & Credits](#-team--credits)
 
 
-## 📷 Stages
-
-Here’s what our robot was up against during the competition:
+## 📷 Stages  
 
 **Stage 1**
 ![Stage 1](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/stage1.jpg?raw=true)
@@ -39,7 +37,7 @@ Here’s what our robot was up against during the competition:
 
 - 1x Maker PI RP2040 Microcontroller  
 - 2x N20 DC Motors  
-- 1x 2-Wheel, 1 Metal Caster Ball Chassis  
+- 1x 2-Wheel Chassis (Wheels Included)  
 - 1x Metal Caster Ball  
 - 3x TCRT5000 IR Sensors (Analog/Digital)  
 - 1x USB Micro A Cable (with data support)  
@@ -172,7 +170,6 @@ Meet the awesome team behind the bot:
   </tr>
 </table>
 
----
 
 ## 📜 License
 
