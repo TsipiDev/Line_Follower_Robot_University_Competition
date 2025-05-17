@@ -9,7 +9,6 @@
 This project was made as an entry to our university's 📟Embedded Systems📟 course competition. The goal of the competition and of this repository was to make a line follower robot🤖 from scratch that can complete all of the 3 stages in the competition.
 Moreover this repository also serves as a guide📖 to how you can build our robot, from the components⚙️ you gonna need and the robot's code👨🏻‍💻 to building it and putting it all together. If you wanna build our model or create your own based on our robot then feel free just make sure you give us a mention in your project!! Our main focus📌 for this line follower was for it to be fast⚡️ and able to handle various "weather conditions"☁️ that could be present in the stages along with sharp turns and sudden stops, these factors heavily affected our design and coding decisions as well as which parts we picked.
 
----
 
 ## 📑 Table of Contents
 
@@ -19,7 +18,6 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - [💻 Code Explanation](#-code-explanation)
 - [👨‍👩‍👧‍👦 Team & Credits](#-team--credits)
 
----
 
 ## 📷 Stages
 
@@ -34,7 +32,6 @@ Here’s what our robot was up against during the competition:
 **Stage 3**
 ![Stage 3](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/stage3.jpg?raw=true)
 
----
 
 ## ⚙️ Hardware & Software Requirements
 
@@ -55,7 +52,6 @@ Here’s what our robot was up against during the competition:
 - RP2040 Board Support (`Arduino Mbed OS RP2040 Boards`)  
 - This repo’s sketch file: `Final_LineFollower.ino`
 
----
 
 ## 🛠️ Installation Guide
 
@@ -81,7 +77,6 @@ Here’s what our robot was up against during the competition:
 3. **Power On**
    - Flip the RP2040 switch on and verify that the microcontroller and sensors light up.
 
----
 
 ### 💾 Software Setup
 
@@ -106,7 +101,6 @@ Here’s what our robot was up against during the competition:
    - Connect RP2040 to your PC via USB **(without batteries connected!)**  
    - Click upload ✅
 
----
 
 ## 💻 Code Explanation
 
@@ -124,7 +118,6 @@ The robot follows a black line using a **PID controller** (Proportional–Integr
 PID = (Kp * error) + (Ki * sum of past errors) + (Kd * rate of error change)  
 These values adjust the **left and right motor speeds** to steer the robot back to the center line, ensuring smooth, fast, and accurate movement.
 
----
 
 ### 🧾 Functions Breakdown
 
@@ -145,7 +138,6 @@ Returns a value between 0 (left) and 7000 (right), or uses previous error direct
 #### `motorDrive(int leftSpeed, int rightSpeed)`
 Drives both motors using PWM control. The speed is calculated by the PID controller and constrained between 0–255. Only forward direction is used in this build.
 
----
 
 ## 👨‍👩‍👧‍👦 Team & Credits
 
