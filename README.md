@@ -162,8 +162,8 @@ Meet the awesome team behind the bot:
       <a href="https://www.linkedin.com/in/konstantinos-pistolas-aa7a12265/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px"/></a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/leonidas-vogiatzis-3a7bb1333/">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEkCNxpv8eZTg/profile-displayphoto-shrink_800_800/0/1729271548808?e=1746057600&v=beta&t=HjnmZ0X9XDFJjw2kk98G1xqML1nJ1XJPLPweyqTwfaY" width="100px;" alt=""/><br/><sub><b>Leonidas Vogiatzis</b></sub>
+      <a href="https://github.com/Leon1dasV">
+        <img src="https://avatars.githubusercontent.com/u/175399369?v=4" width="100px;" alt=""/><br/><sub><b>Leonidas Vogiatzis</b></sub>
       </a><br/>
       <a href="https://www.linkedin.com/in/leonidas-vogiatzis-3a7bb1333/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px"/></a>
     </td>
