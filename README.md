@@ -36,7 +36,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 ### 🧩 Hardware Components
 
 - 1x Maker PI RP2040 Microcontroller  
-- 2x N20 DC Motors  
+- 2x DC Motors (Included with Chassis)  
 - 1x 2-Wheel Chassis (Wheels Included)  
 - 1x Metal Caster Ball  
 - 3x TCRT5000 IR Sensors (Analog/Digital)  
