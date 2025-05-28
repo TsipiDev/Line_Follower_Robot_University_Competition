@@ -55,8 +55,6 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 
 # 🛠️ Complete Installation Guide for Beginners
 
----
-
 ## 🔩 Hardware Setup: Building the Robot
 
 ### 1. 🧱 Assemble the Chassis
@@ -105,8 +103,6 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
   - A **power LED** on the board.
   - Possibly lights on the motor driver and sensors.
   - If nothing happens, recheck battery connection and polarity.
-
----
 
 ## 💾 Software Setup: Programming the Robot
 
