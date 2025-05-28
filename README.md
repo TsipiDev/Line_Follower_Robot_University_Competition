@@ -62,12 +62,12 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
   It’s the frame or “body” of your robot where all components (motors, sensors, wheels, microcontroller) are attached.
 
 - **Steps:**
-  1. Unpack all chassis parts and lay them out.
-  2. Mount the wheels and motors onto the base using screws provided (Down side).
-  3. Attach the metal caster ball at the front (Down side).
-  4. Place the **RP2040 microcontroller** and **line sensors** securely on the chassis (Up side).
-  5. Ensure all sensors face downward and are **parallel to the ground**.
-  6. Use the image below to check if your setup matches:
+  1) Unpack all chassis parts and lay them out.
+  2) Mount the wheels and motors onto the base using screws provided (Down side).
+  3) Attach the metal caster ball at the front (Down side).
+  4) Place the **RP2040 microcontroller** and **line sensors** securely on the chassis (Up side).
+  5) Ensure all sensors face downward and are **parallel to the ground**.
+  6) Use the image below to check if your setup matches:
 
    ![Robot Build](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/Robot.jpeg?raw=true)
 
@@ -151,11 +151,11 @@ This tells Arduino IDE how to find RP2040 board support.
 
 ## ✅ Final Steps & Test Run
 
-1. Disconnect the USB cable.
-2. Connect the battery pack.
-3. Place the robot on a **black line over white surface**.
-4. Turn it on.
-5. Watch it follow the line!
+1) Disconnect the USB cable.
+2) Connect the battery pack.
+3) Place the robot on a **black line over white surface**.
+4) Turn it on.
+5) Watch it follow the line!
 
 If it doesn't follow well, check:
 - Sensor alignment and height.
