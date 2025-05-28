@@ -53,7 +53,7 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - This repo’s sketch file: `Final_LineFollower.ino`
 
 
-# 🛠️ Complete Installation Guide for Beginners
+# 🛠️ Installation Guide
 
 ## 🔩 Hardware Setup: Building the Robot
 
