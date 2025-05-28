@@ -4,6 +4,8 @@
 [![Platform: RP2040](https://img.shields.io/badge/Platform-RP2040-blueviolet?style=for-the-badge)](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
+![FinalRobot](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/Final%20Robot%20Build.jpeg?raw=true)
+
 ## 📚 Overview
 
 This project was made as an entry to our university's 📟Embedded Systems📟 course competition. The goal of the competition and of this repository was to make a line follower robot🤖 from scratch that can complete all of the 3 stages in the competition.
@@ -51,53 +53,121 @@ Moreover this repository also serves as a guide📖 to how you can build our rob
 - This repo’s sketch file: `Final_LineFollower.ino`
 
 
-## 🛠️ Installation Guide
+# 🛠️ Complete Installation Guide for Beginners
 
-### 🔩 Hardware Setup
+---
 
-1. **Assemble the chassis**  
-   - Secure all components. **Sensor alignment is critical** — check the image below for correct placement.
+## 🔩 Hardware Setup: Building the Robot
+
+### 1. 🧱 Assemble the Chassis
+- **What’s the chassis?**  
+  It’s the frame or “body” of your robot where all components (motors, sensors, wheels, microcontroller) are attached.
+
+- **Steps:**
+  1. Unpack all chassis parts and lay them out.
+  2. Mount the wheels and motors onto the base using screws provided (Down side).
+  3. Attach the metal caster ball at the front (Down side).
+  4. Place the **RP2040 microcontroller** and **line sensors** securely on the chassis (Up side).
+  5. Ensure all sensors face downward and are **parallel to the ground**.
+  6. Use the image below to check if your setup matches:
 
    ![Robot Build](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/Robot.jpeg?raw=true)
 
-2. **Wire your components**
-   - **Sensors:**
-     - Left → `GP27`
-     - Center → `GP26`
-     - Right → `GP28`
-   - **Motors (via MA/MB driver pins):**
-     - Left Motor: `GP8` (Red), `GP9` (Black)
-     - Right Motor: `GP10` (Red), `GP11` (Black)
-   - **Power:**
-     - Battery Pack Red → `VIN +`
-     - Battery Pack Black → `VIN -`
+### 2. 🔌 Wire All Components
 
-3. **Power On**
-   - Flip the RP2040 switch on and verify that the microcontroller and sensors light up.
+- **Line Sensors:**
+  - You have **three analog line sensors** that must be connected correctly:
+    - **Left Sensor** → GP27
+    - **Center Sensor** → GP26
+    - **Right Sensor** → GP28
 
+- **Motors:**
+  - Connect the motor wires to the RP2040 pins:
+    - **Left Motor:**
+      - Forward → GP8
+      - Backward → GP9
+    - **Right Motor:**
+      - Forward → GP10
+      - Backward → GP11
 
-### 💾 Software Setup
+  *Tip:* If the motor spins the wrong way, just switch the red and black wires.
 
-1. **Install Arduino IDE**  
-   - Download from [here](https://www.arduino.cc/en/software)
+- **Power (Battery):**
+  - Use a **battery pack (4x AAA 1.5V)**:
+    - Red wire → VIN +
+    - Black wire → VIN -
+  - Double-check polarity — wrong connections could damage the board.
 
-2. **Add Board Manager URL**  
-   - `File > Preferences > Additional Board Manager URLs`:  
-     ```
-     https://downloads.arduino.cc/packages/package_index.json
-     ```
+### 3. ⚡ Power On the Robot
 
-3. **Install RP2040 Support**  
-   - `Tools > Board > Boards Manager`  
-   - Search & install: `Arduino Mbed OS RP2040 Boards`
+- Turn ON the switch on your **RP2040 board or battery pack**.
+- You should see:
+  - A **power LED** on the board.
+  - Possibly lights on the motor driver and sensors.
+  - If nothing happens, recheck battery connection and polarity.
 
-4. **Select Your Board**  
-   - `Tools > Board > Raspberry Pi Pico` *(or your RP2040 variant)*
+---
 
-5. **Upload the Code**  
-   - Open `Final_LineFollower.ino`  
-   - Connect RP2040 to your PC via USB **(without batteries connected!)**  
-   - Click upload ✅
+## 💾 Software Setup: Programming the Robot
+
+> This is where you upload the brain of your robot — the code that makes it follow lines!
+
+### 1. 💻 Install Arduino IDE
+
+- Go to: https://www.arduino.cc/en/software
+- Click **“Windows Installer”** (or your OS).
+- Download and install the Arduino IDE (just follow the installer steps).
+
+### 2. ➕ Add Board Manager URL
+
+This tells Arduino IDE how to find RP2040 board support.
+
+- Open the Arduino IDE.
+- Go to: File > Preferences
+- Find the box **“Additional Board Manager URLs”**.
+- Paste this link:
+  https://downloads.arduino.cc/packages/package_index.json
+- Click OK.
+
+### 3. 📥 Install RP2040 Board Support
+
+- Go to: Tools > Board > Boards Manager
+- In the search bar, type: RP2040
+- Install the package named **"Arduino Mbed OS RP2040 Boards"**
+
+### 4. 📍 Select Your Board
+
+- Go to: Tools > Board
+- Choose: Raspberry Pi Pico *(or whatever RP2040 variant you use)*
+
+### 5. 📂 Upload the Code to Your RP2040
+
+- Open the file Final_LineFollower.ino in the Arduino IDE.
+- Make sure:
+  - Your RP2040 board is **connected via USB cable**.
+  - **Batteries are disconnected** to avoid power conflict.
+- Click the **Upload (✓)** button in the top left of Arduino IDE.
+- Wait for it to compile and upload the code.
+
+> When it says **"Done uploading"**, your code is successfully on the robot!
+
+---
+
+## ✅ Final Steps & Test Run
+
+1. Disconnect the USB cable.
+2. Connect the battery pack.
+3. Place the robot on a **black line over white surface**.
+4. Turn it on.
+5. Watch it follow the line!
+
+If it doesn't follow well, check:
+- Sensor alignment and height.
+- Line contrast and lighting.
+- PID values in the code (`Kp`, `Ki`, `Kd`) — tune if needed.
+
+---
+
 
 
 ## 💻 Code Explanation
