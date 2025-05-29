@@ -13,7 +13,7 @@ double Kp = 0.3;
 double Ki = 0.0;
 double Kd = 0.5;
 
-int baseSpeed = 80;
+int baseSpeed = 200;
 int P, I, D, error, PreviousError = 0;
 int LSp, RSp;
 
