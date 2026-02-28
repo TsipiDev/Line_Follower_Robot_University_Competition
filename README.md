@@ -11,18 +11,16 @@
 This project was made as an entry to our university's Embedded Systems course competition. The goal of the competition and of this repository was to make a line follower robot from scratch that can complete all of the 3 stages in the competition.
 Moreover this repository also serves as a guide to how you can build our robot, from the components you gonna need and the robot's code to building it and putting it all together. If you wanna build our model or create your own based on our robot then feel free just make sure you give us a mention in your project!! Our main focus for this line follower was for it to be fast and able to handle various "weather conditions" that could be present in the stages along with sharp turns and sudden stops, these factors heavily affected our design and coding decisions as well as which parts we picked.
 
+## Table of Contents
 
-##  Table of Contents
-
-- [ Stages](#-stages)
-- [ Hardware & Software Requirements](#️-hardware--software-requirements)
-- [ Installation Guide](#️-installation-guide)
-- [ Code Explanation](#-code-explanation)
-- [👨‍👩‍👧‍👦 Team & Credits](#-team--credits)
+- [Stages](#stages)
+- [Hardware & Software Requirements](#hardware--software-requirements)
+- [Installation Guide](#installation-guide)
+- [Code Explanation](#code-explanation)
+- [Team & Credits](#team--credits)
 
 
-##  Stages  
-
+## Stages
 **Stage 1**
 ![Stage 1](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/stage1.jpg?raw=true)
 
@@ -33,7 +31,7 @@ Moreover this repository also serves as a guide to how you can build our robot, 
 ![Stage 3](https://github.com/TsipiDev/Line_Follower_Robot_University_Competition/blob/main/stage3.jpg?raw=true)
 
 
-##  Hardware & Software Requirements
+## Hardware & Software Requirements
 
 ###  Hardware Components
 
@@ -53,7 +51,7 @@ Moreover this repository also serves as a guide to how you can build our robot, 
 - This repo’s sketch file: `Final_LineFollower.ino`
 
 
-#  Installation Guide
+# Installation Guide
 
 ##  Hardware Setup: Building the Robot
 
@@ -198,7 +196,7 @@ Returns a value between 0 (left) and 7000 (right), or uses previous error direct
 Drives both motors using PWM control. The speed is calculated by the PID controller and constrained between 0–255. Only forward direction is used in this build.
 
 
-## 👨‍👩‍👧‍👦 Team & Credits
+## Team & Credits
 
 Meet the awesome team behind the bot:
 
